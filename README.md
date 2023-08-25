@@ -4,7 +4,7 @@ Description: This class project is similar to the 20 Questions game, in which th
 
 For the read and write methods, they interact with text files containing questions and answers from the 20 question games in "Q:" and "A:" format. During the game, when the user inputs a new object because the computer didn't guess it correctly or it wants to play again using the previous tree it will use these methods.
 
-Language: Java, Object-Oriented Programming
+Language(s): Java, Object-Oriented Programming
 
 Integrated Development Environment (IDE): JGrasp
 
@@ -12,12 +12,12 @@ File I worked on:
       QuestionsGame.java
 
 Provided Files:
-      big-questions.txt
-      HuffmanCode.java
-      QuestionMain.class
-      QuestionMain.java
-      questions.txt
-      QuestionsGame$QuestionNode.class
-      QuestionsGame.class
+      big-questions.txt, 
+      HuffmanCode.java, 
+      QuestionMain.class, 
+      QuestionMain.java, 
+      questions.txt, 
+      QuestionsGame$QuestionNode.class, 
+      QuestionsGame.class, 
 
 Contributors: Michelle Delgado-Alvarez 
